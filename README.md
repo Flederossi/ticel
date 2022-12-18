@@ -45,7 +45,11 @@ There are to ways to use the engine:
 ## Showcase
 
 **!!! SEIZURE WARNING: Continue only if flashing images do not harm you !!!**
-\n\n
+
+
+
+
+
 ### Conways Game Of Life (B3/S23)
 ![Alt Text](https://github.com/Flederossi/ticel/blob/main/assets/B3_S23.gif)
 
