@@ -8,7 +8,7 @@ It supports both B/S notation and S/B notation, and is thus capable of simulatin
 ticel [optional: rulestring]
 ```
 
-*Note: If no rulestring is passed, the engine will load conways game of life.
+*Note: If no rulestring is passed, the engine will load conways game of life.*
 
 ### Mouseevents
 |Button|Function|
