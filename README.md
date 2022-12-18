@@ -31,5 +31,5 @@ There are to ways to use the engine:
 > make run
 > ```
 > Now a window should open with the B2/S1 cellular automaton.
-### 2. Use prebuilt binary:
+### 2. Use prebuilt binary
 > You can also go to the releases tab and download the latest executable of ticle to get started.
