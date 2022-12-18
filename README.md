@@ -9,6 +9,7 @@ ticel [optional: rulestring]
 ```
 
 ### Mouseevents
+-----------------
 |Button|Function|
 -----------------
 |Left|Set the cell the mouse is on to alive|
@@ -19,6 +20,7 @@ ticel [optional: rulestring]
 -----------------
 
 ### Keystrokes
+--------------
 |Key|Function|
 --------------
 |S|Start the simulation|
