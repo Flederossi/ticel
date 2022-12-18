@@ -5,7 +5,16 @@ A simple simulation engine for life-like cellular automata.
 
 ## Showcase
 ![Alt Text](https://github.com/Flederossi/ticel/blob/main/assets/B3_S23.gif)
-Conways Game Of Life (B3/S23)
+
+> Conways Game Of Life (B3/S23)
+
+![Alt Text](https://github.com/Flederossi/ticel/blob/main/assets/B3_S1237.gif)
+
+> Snow Life (B3/S1237)
+
+![Alt Text](https://github.com/Flederossi/ticel/blob/main/assets/B3_S12345.gif)
+
+> Maze (B3/S12345)
 
 ## Usage
 ```
