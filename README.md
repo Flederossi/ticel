@@ -39,6 +39,7 @@ There are to ways to use the engine:
 ## Examples
 > You can find rulestrings to many life-like cellular automata [here](https://conwaylife.com/wiki/List_of_Life-like_cellular_automata).
 > Just copy the rulestring and pass it as argument to the engine.
+
 > Here are three of them:
 
 ## Showcase
