@@ -3,6 +3,9 @@ A simple simulation engine for life-like cellular automata.
 
 > It supports both B/S notation and S/B notation, and is thus capable of simulating any lifelike cellular automaton.
 
+## Showcase
+![Alt Text](https://github.com/Flederossi/raosxd/blob/main/assets/screenshot.png)
+
 ## Usage
 ```
 ticel [optional: rulestring]
