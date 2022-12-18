@@ -35,3 +35,7 @@ There are to ways to use the engine:
 > Now a window should open with the B2/S1 cellular automaton.
 ### 2. Use prebuilt binary
 > You can also go to the releases tab and download the latest executable of ticle to get started.
+
+## Examples
+You can find rulestrings to many life-like cellular automata [here](https://conwaylife.com/wiki/List_of_Life-like_cellular_automata).
+Just copy the rulestring and pass it as argument to the engine.
