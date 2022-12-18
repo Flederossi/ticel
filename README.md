@@ -8,9 +8,11 @@ A simple simulation engine for life-like cellular automata.
 
 > Conways Game Of Life (B3/S23)
 
+
 ![Alt Text](https://github.com/Flederossi/ticel/blob/main/assets/B3_S1237.gif)
 
 > Snow Life (B3/S1237)
+
 
 ![Alt Text](https://github.com/Flederossi/ticel/blob/main/assets/B3_S12345.gif)
 
