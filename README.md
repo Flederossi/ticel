@@ -9,15 +9,14 @@ ticel [optional: rulestring]
 ```
 
 ### Mouseevents
------------------
 |Button|Function|
------------------
+|------|--------|
 |Left|Set the cell the mouse is on to alive|
------------------
+|------|--------|
 |Right|Set the cell the mouse is on to dead|
------------------
+|------|--------|
 |Middle|Set all cells to dead|
------------------
+|------|--------|
 
 ### Keystrokes
 --------------
