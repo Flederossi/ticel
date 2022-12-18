@@ -3,19 +3,6 @@ A simple simulation engine for life-like cellular automata.
 
 *It supports both B/S notation and S/B notation, and is thus capable of simulating any lifelike cellular automaton.*
 
-## Showcase
-
-**SEIZURE WARNING: Continue only if flashing images do not harm you**
-
-### Conways Game Of Life (B3/S23)
-![Alt Text](https://github.com/Flederossi/ticel/blob/main/assets/B3_S23.gif)
-
-### Snow Life (B3/S1237)
-![Alt Text](https://github.com/Flederossi/ticel/blob/main/assets/B3_S1237.gif)
-
-### Maze (B3/S12345)
-![Alt Text](https://github.com/Flederossi/ticel/blob/main/assets/B3_S12345.gif)
-
 ## Usage
 ```
 ticel [optional: rulestring]
@@ -52,3 +39,17 @@ There are to ways to use the engine:
 ## Examples
 > You can find rulestrings to many life-like cellular automata [here](https://conwaylife.com/wiki/List_of_Life-like_cellular_automata).
 > Just copy the rulestring and pass it as argument to the engine.
+> Here are three of them:
+
+## Showcase
+
+**SEIZURE WARNING: Continue only if flashing images do not harm you**
+
+### Conways Game Of Life (B3/S23)
+![Alt Text](https://github.com/Flederossi/ticel/blob/main/assets/B3_S23.gif)
+
+### Snow Life (B3/S1237)
+![Alt Text](https://github.com/Flederossi/ticel/blob/main/assets/B3_S1237.gif)
+
+### Maze (B3/S12345)
+![Alt Text](https://github.com/Flederossi/ticel/blob/main/assets/B3_S12345.gif)
